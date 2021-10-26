@@ -1,3 +1,3 @@
 # Something
 
-Better then nothing, for now..
+Better then nothing? For now..
