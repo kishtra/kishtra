@@ -1,7 +1,2 @@
-# Something
-
-Better then nothing? For now...
-
-## Otherworldly species
-
-Calling occupants of interplanetary craft.
+# Eh... What's Up Doc?
+What's Codin'?
